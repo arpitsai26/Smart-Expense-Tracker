@@ -1,14 +1,17 @@
 # Smart Expense Tracker GitHub Push TODO
 
-## Pending Steps:
-2. Initialize Git repo and set main branch
-3. Add GitHub remote for arpitsai26/Smart-Expense-Tracker
-4. Add all files (git add .)
-5. Commit initial changes
-6. Push to main branch
+## Task Complete!
 
-## Completed:
-1. Install GitHub CLI using winget (attempted; using standard git)
+## Completed Steps:
+1. Install GitHub CLI using winget (attempted; used standard git)
+2. Initialize Git repo and set main branch (reinitialized)
+3. Add GitHub remote for arpitsai26/Smart-Expense-Tracker (already existed)
+4. Add all files (git add .)
+5. Commit initial changes ("Initial commit: Smart Expense Tracker app")
+6. Push to main branch (git push -u origin main)
+
+Repo status: Clean, on main branch.
+
 
 
 **Status: In progress**
